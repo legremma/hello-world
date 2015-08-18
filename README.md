@@ -1,2 +1,4 @@
-# hello-world
-Initial repository created to go through the GitHub tutorial
+hello-world
+===========
+
+hello-word repository is intended to be used in the initial tutorial introducing GitHub
